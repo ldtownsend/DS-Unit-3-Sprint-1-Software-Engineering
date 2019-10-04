@@ -268,7 +268,15 @@ career here, you'll have to answer the following:
   slightly different things running on all of them. How could containers help us
   improve this situation?
 
-Answer both of these questions (baseline ~5 sentences) here in text.
+An important part of code reviews, in my opinion, is understanding how readable
+and easy to interpret your code is to someone else in the field. It is always
+easy to understand something you wrote yourself, 'showing your work' is more 
+difficult. I focus on naming conventions for variables. I appreciate notes 
+on readability. 
+
+Containers help by isolating the software so that it works regardless of the 
+user's environment or OS.
+
 
 ### Part 8 - Turn it in!
 
